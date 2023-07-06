@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Rafael Freitas 😁
+## Hello World and welcome to my profile! 😁
 
  <div>
    <a href="https://github.com/rafaelfreitasgt">
